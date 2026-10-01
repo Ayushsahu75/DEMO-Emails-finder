@@ -1,0 +1,6 @@
+{
+  "name": "Public Email Extractor",
+  "description": "Python-based web email extraction tool and interactive runner to find publicly visible business email addresses from websites and export to CSV.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
